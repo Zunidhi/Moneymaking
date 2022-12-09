@@ -1,0 +1,28 @@
+<html>
+<head>
+    <title>My Money-Making Website</title>
+</head>
+<body>
+    <h1>Welcome to My Money-Making Website</h1>
+
+    <p>Here, you can earn money by completing simple tasks and offers. Just sign up for an account and start earning today!</p>
+
+    <h2>How it works</h2>
+    <ol>
+        <li>Sign up for an account by filling out the form below.</li>
+        <li>Once you're logged in, you'll see a list of available tasks and offers.</li>
+        <li>Choose a task or offer, complete it, and earn money.</li>
+        <li>When you've earned enough, you can request a payout via PayPal or direct deposit.</li>
+    </ol>
+
+    <h2>Sign Up</h2>
+    <form>
+        <label>Name: <input type="text" name="name" /></label><br />
+        <label>Email: <input type="email" name="email" /></label><br />
+        <label>Password: <input type="password" name="password" /></label><br />
+        <input type="submit" value="Sign Up" />
+    </form>
+
+    <p>Already have an account? <a href="login.html">Log in here.</a></p>
+</body>
+</html>
